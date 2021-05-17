@@ -4,7 +4,7 @@
 
 **OnlyNews** is basically a simple news app which is built to demonstrate the modern android tools. 
 
-**You can Install and test latest News app from below 👇**
+**You can Install and test latest OnlyNews app from below 👇**
 
 [![OnlyNews](https://img.shields.io/badge/OnlyNews-APK-red.svg?style=for-the-badge&logo=android)](https://github.com/Somnath6646/OnlyNews/blob/master/app/release/app-release.apk)
 
