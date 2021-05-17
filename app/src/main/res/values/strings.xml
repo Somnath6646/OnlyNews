@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OnlyNews</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="view_full_news"><u>View full news</u></string>
+    <string name="email_card_transition_name">email_card_%1$s</string>
+    <string name="email_card_detail_transition_name">email_card_detail</string>
+</resources>

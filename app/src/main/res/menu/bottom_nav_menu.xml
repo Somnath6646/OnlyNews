@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/feedFragment" android:title="Feed" android:icon="@drawable/ic_feed" android:iconTint="@color/gray2"/>
+    <item android:id="@+id/headlinesFragment" android:title="Headlines" android:icon="@drawable/ic_headline" android:iconTint="@color/gray2"/>
+    <item android:id="@+id/searchFragment" android:title="Search" android:icon="@drawable/ic_search" android:iconTint="@color/gray2"/>
+    <item android:id="@+id/bookmarksFragment" android:title="Bookmarks" android:icon="@drawable/ic_bookmark" android:iconTint="@color/gray2" />
+</menu>
