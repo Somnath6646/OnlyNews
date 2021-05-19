@@ -29,6 +29,10 @@ It loads the news articles using [news api](https://newsapi.org/). Using retrofi
 
 <br />
 
+## Api key
+
+- You need to add the api key in NewstaApp.kt file. You can get a free ApiKey from [here](https://newsapi.org/) 
+
 
 
 
